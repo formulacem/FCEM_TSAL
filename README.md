@@ -18,7 +18,7 @@ O projeto está em constante desenvolvimento e a sua contrbuição seria muito b
 Antes de começar, saiba que uma descrição mais detalhada pode ser encontrada [aqui](https://drive.google.com/file/d/1Le9ISAA1FhbQ6ooLTJnMWj3ilF0zkIrC/view?usp=sharing). Neste repositório você poderá encontrar:
 
 * Revisão comentada, passo-a-passo de projetos anteriores, com o apontamento de erros e observações sobre as nuances dos projetos.
-* Arquivos de fabricação atualizados, cujas PCB's foram fabricadas, graças ao apoio do nosso patrocinado [JLC PCB](https://jlcpcb.com/), testadas e validadas dentro da equipe.
+* Arquivos de fabricação atualizados, cujas PCB's foram fabricadas, graças ao apoio do nosso patrocinado [JLC PCB](https://jlcpcb.com/HAR), testadas e validadas dentro da equipe.
 * Documentação extensiva e possibilidade de contribuir com um time multidisciplinar.
 
 ## Contribuindo
